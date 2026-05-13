@@ -1,0 +1,27 @@
+#.venv virtual environment
+.venv/
+.venv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Office temp files
+~$*
+
+# Env files
+.env
+
+# Byte-compiled / distribution
+build/
+dist/
+*.egg-info/
+
+# Ignore large local virtual envs
+venv/

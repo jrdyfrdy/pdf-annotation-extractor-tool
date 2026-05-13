@@ -1,0 +1,6 @@
+pymupdf
+openpyxl
+pandas
+tqdm
+pdfminer.six
+gradio
