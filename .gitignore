@@ -25,3 +25,7 @@ dist/
 
 # Ignore large local virtual envs
 venv/
+
+# Sample output file
+sample_output.xlsx
+A3_TATAG_Manuscript_COMMENTS.pdf
